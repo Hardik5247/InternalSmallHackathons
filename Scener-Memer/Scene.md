@@ -1,1 +1,4 @@
-An application that takes an image as an input, extracts its features using scene detection and returns a GIF based on it
+An application that takes an image as an input, extracts its features using scene detection and returns a GIF based on it.
+
+Developed by - Jitesh Jain
+	       Hardik Thami
